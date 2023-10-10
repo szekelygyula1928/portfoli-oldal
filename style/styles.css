@@ -1,9 +1,13 @@
+html{
+    font-size: 10px ;
+}
 h1{
     color: aqua;
-    font-size: 48px;
+    font-size: 4.8rem;
 }
 p{
-    font-size: 18px;
+<<<<<<< HEAD
+    font-size: 1.8rem;
     letter-spacing: 1px;
 }
 
