@@ -4,6 +4,7 @@ html{
 h1{
     color: aqua;
     font-size: 4.8rem;
+    text-decoration: underline;
 }
 p{
 <<<<<<< HEAD
