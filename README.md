@@ -1,5 +1,7 @@
 # EZ egy doku.
 
-ghjhklkgf
+Létrehoztuk az első GitHub repo-t.
 
-jhgfdf
+Ne feledd az API key-t.
+
+& -s üzenet.
